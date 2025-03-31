@@ -7,3 +7,6 @@ opearation = input("Enter Opeartion ex: (a+b): ")
 
 if opearation == 'a+b':
     print(a+b)
+
+
+
